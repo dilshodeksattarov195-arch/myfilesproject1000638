@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderencrypt",
+        "uuid": 1634556,
+        "checksum": "qebp66"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
